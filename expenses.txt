@@ -1,0 +1,32 @@
+Entry ID: 1
+Username: nine
+Entry Type: Expense
+Description: buy banana
+Amount: $30
+Time: 10:15
+Date: 2023-10-30
+
+Entry ID: 2
+Username: nine
+Entry Type: Income
+Description: Salary
+Amount: $500
+Time: 10:15
+Date: 2023-10-30
+
+Entry ID: 3
+Username: Mooham
+Entry Type: Expense
+Description: Buy fish
+Amount: $70
+Time: 10:15
+Date: 2023-10-30
+
+Entry ID: 4
+Username: Mooham
+Entry Type: Income
+Description: Salary
+Amount: $900
+Time: 10:16
+Date: 2023-10-30
+
